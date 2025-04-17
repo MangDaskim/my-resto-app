@@ -1,5 +1,5 @@
 const sheetId = "13z2HlpFMyeLtgtkGJ1_WcSnR8hVeDVhiE4i3l5MSp4k";
-const apiKey = "YOUR_API_KEY"; // Ganti dengan API key Anda
+const apiKey = "AIzaSyCE9sA666v1oyFOOAduj9hKpiOjzdbDoTE"; // Ganti dengan API key Anda
 const range = "Sheet1"; // Ganti jika nama sheet berbeda
 
 async function fetchData() {
